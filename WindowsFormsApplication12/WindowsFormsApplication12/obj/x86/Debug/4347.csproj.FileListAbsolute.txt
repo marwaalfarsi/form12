@@ -1,0 +1,2 @@
+C:\Users\ROUYA\documents\visual studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.Properties.Resources.resources
+C:\Users\ROUYA\documents\visual studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\4347.csproj.GenerateResource.Cache
